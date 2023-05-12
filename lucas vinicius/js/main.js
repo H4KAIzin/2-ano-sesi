@@ -1,3 +1,0 @@
-function clickBotao(){
-    alert("JOSIAS")
-}
