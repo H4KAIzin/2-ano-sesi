@@ -9,6 +9,6 @@ function clickBotao(){
 
     let mongol = document.getElementById('francisco')
     console.log(mongol)
-    mongol.classname = "azul"
+    mongol.className = "azul"
 }
    
